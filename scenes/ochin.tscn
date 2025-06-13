@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://c20xsw8whn2t"]
+
+[ext_resource type="Texture2D" uid="uid://yc2a6xs8ejo" path="res://assets/chin0001.png" id="1_6bbsd"]
+
+[node name="Ochin" type="Node2D"]
+
+[node name="Ochin0001" type="Node2D" parent="."]
+
+[node name="Ochin0001" type="Sprite2D" parent="Ochin0001"]
+texture = ExtResource("1_6bbsd")

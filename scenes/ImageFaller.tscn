@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://cugqt63uvkj85"]
+
+[ext_resource type="Script" uid="uid://cwyalt8pin0e2" path="res://scenes/imagefaller.gd" id="1_yyvst"]
+
+[node name="ImageFaller" type="RigidBody2D"]
+script = ExtResource("1_yyvst")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
